@@ -1,0 +1,15 @@
+[19.01.2018 10:17:48]
+Hook started... Timer started
+
+[19.01.2018 10:18:51]
+<From SendMail> Return code: 1995984333
+
+[19.01.2018 11:35:11]
+Hook started... Timer started
+
+[19.01.2018 11:36:28]
+Hook started... Timer started
+
+[19.01.2018 11:46:24]
+Hook started... Timer started
+

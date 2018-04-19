@@ -1,0 +1,102 @@
+[08.01.2018 17:43:44]
+Hook started... Timer started
+
+[08.01.2018 18:05:54]
+Hook started... Timer started
+
+[19.01.2018 11:35:31]
+Hook started... Timer started
+
+[19.01.2018 11:36::6]
+Hook started... Timer started
+
+[19.01.2018 11:36:19]
+Hook started... Timer started
+
+[19.01.2018 11:39:45]
+Hook started... Timer started
+
+[19.01.2018 11:40:44]
+Hook started... Timer started
+
+[19.01.2018 11:40:48]
+<From SendMail> Return code: 1995984333
+
+[19.01.2018 11:43:38]
+Hook started... Timer started
+
+[19.01.2018 11:44:15]
+Hook started... Timer started
+
+[19.01.2018 11:45:18]
+<From SendMail> Return code: 1995984333
+
+[19.01.2018 11:45:58]
+Hook started... Timer started
+
+[19.01.2018 11:50:50]
+Hook started... Timer started
+
+[19.01.2018 11:51:36]
+Hook started... Timer started
+
+[19.01.2018 11:51:49]
+Hook started... Timer started
+
+[19.01.2018 11:58:54]
+Hook started... Timer started
+
+[19.01.2018 11:59:21]
+Hook started... Timer started
+
+[19.01.2018 12:00:21]
+Hook started... Timer started
+
+[19.01.2018 12:00:31]
+Hook started... Timer started
+
+[19.01.2018 12:00:48]
+Hook started... Timer started
+
+[19.01.2018 12:01:23]
+Hook started... Timer started
+
+[19.01.2018 12:01:40]
+Hook started... Timer started
+
+[19.01.2018 12:01:45]
+Hook started... Timer started
+
+[19.01.2018 12:01:57]
+Hook started... Timer started
+
+[19.01.2018 12:02:14]
+Hook started... Timer started
+
+[19.01.2018 12:02:35]
+Hook started... Timer started
+
+[19.01.2018 12:02:43]
+Hook started... Timer started
+
+[19.01.2018 12:02:52]
+Hook started... Timer started
+
+[19.01.2018 12:02:55]
+Hook started... Timer started
+
+[19.01.2018 12:03:17]
+Hook started... Timer started
+
+[19.01.2018 12:03:31]
+Hook started... Timer started
+
+[19.01.2018 12:03:40]
+Hook started... Timer started
+
+[19.01.2018 12:03:46]
+Hook started... Timer started
+
+[19.01.2018 12:03:51]
+Hook started... Timer started
+

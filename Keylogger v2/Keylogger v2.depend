@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1516359645 source:c:\users\dell latitude e6440\codeblocks\keylogger v2\main.cpp
+	<iostream>
+	<windows.h>
+	"KeybHook.h"
+
+1515249008 c:\users\dell latitude e6440\codeblocks\keylogger v2\keyconstants.h
+	<map>
+	<string>
+
+1515707749 c:\users\dell latitude e6440\codeblocks\keylogger v2\helper.h
+	<ctime>
+	<string>
+	<sstream>
+
+1515431354 c:\users\dell latitude e6440\codeblocks\keylogger v2\base64.h
+	<vector>
+	<string>
+
+1516358437 c:\users\dell latitude e6440\codeblocks\keylogger v2\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1515248557 c:\users\dell latitude e6440\codeblocks\keylogger v2\timer.h
+	<thread>
+	<chrono>
+
+1516746039 c:\users\dell latitude e6440\codeblocks\keylogger v2\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1516359693 c:\users\dell latitude e6440\codeblocks\keylogger v2\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
